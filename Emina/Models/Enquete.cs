@@ -7,6 +7,6 @@ namespace Emina.Models
 {
     public class Enquete
     {
-
+        public int ID { get; set; }
     }
 }
